@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Remove Content Wall",
     "version": "1.0",
-    "description": "A lightweight Firefox extension to bypass the content wall on Glassdoor ",
+    "description": "A lightweight Firefox extension to bypass the content wall on Glassdoor",
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
